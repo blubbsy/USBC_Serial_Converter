@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2112M-3.3TRG1
+D Linear Voltage Regulator IC Positive Fixed 1 Output 600mA 8-SOIC
+K
+F https://www.diodes.com/assets/Datasheets/AP2112.pdf
+$ENDCMP
+#
+#End Doc Library
